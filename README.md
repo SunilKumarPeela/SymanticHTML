@@ -7,7 +7,8 @@ Perfect for practicing `<header>`, `<main>`, `<article>`, `<section>`, `<figure>
 
 ## 🚀 Quick Preview (code left • site right)
 
-[![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-black)](https://codesandbox.io/s/github/SunilKumarPeela/NYC-Blog?file=/index.html)
+[![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-black)](https://codesandbox.io/s/github/SunilKumarPeela/SymanticHTML?file=/index.html)
+
 
 ---
 
